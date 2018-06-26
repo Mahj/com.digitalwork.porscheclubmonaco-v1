@@ -1,0 +1,8 @@
+{
+  "name": "PorscheClubMonaco-v1",
+  "app_id": "2c24fa84",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
